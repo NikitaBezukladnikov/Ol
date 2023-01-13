@@ -2,9 +2,9 @@
 	box-sizing:border-box;
 	-moz-box-sizing:border-box;
 	-webkit-box-sizing:border-box;
-	margin:0;
-	padding:0;
-	border:0;
+	margin: 1px;;
+	padding: 1px;;
+	border: 1px;;
 	font-size:100%;
 	font:inherit;
 	outline:none;
@@ -27,7 +27,7 @@ body {
 	height:auto;
 	min-height:100%;
 	position:relative;
-	line-height:1;
+	line-height:2;
 }
 
 button::-moz-focus-inner, input[type="reset"]::-moz-focus-inner, 

@@ -35,9 +35,9 @@
  @import url("adaptiv.css");
 
  body {
-     background : white;
-     font-size  : 16px;
-     color      : black;
+     background : rgb(138, 181, 147);
+     font-size  : 18px;
+     color      : rgb(147, 80, 80);
      font-family: 'Proxima Nova Rg';
      font-weight: normal;
      font-style : normal;
@@ -52,31 +52,31 @@
  }
 
  .container {
-     max-width    : 1200px;
+     max-width    : 1300px;
      margin-left  : auto;
      margin-right : auto;
-     padding-left : 15px;
-     padding-right: 15px;
+     padding-left : 17px;
+     padding-right: 17px;
      position     : relative;
  }
 
  a {
-     color          : black;
-     transition     : all 0.3s linear;
+     color          : rgb(100, 177, 141);
+     transition     : all 0.4s linear;
      text-decoration: none;
  }
 
  a:hover {
-     color: #ff83a4;
+     color: #ff83ff;
  }
 
  h1 {
-     font-weight  : 500;
+     font-weight  : 600;
      font-style   : normal;
      text-align   : center;
-     font-size    : 32px;
-     margin-bottom: 5px;
-     line-height  : 28px;
+     font-size    : 34px;
+     margin-bottom: 7px;
+     line-height  : 30px;
  }
 
  h1 span {
